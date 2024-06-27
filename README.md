@@ -31,7 +31,7 @@ A Node.js application for parsing cryptocurrency trade data from CSV files and c
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/prakhar12330/Trade-Parser-and-Balance-Calculator.git
    ```
 2. **Install Dependencies**:
    ```bash
